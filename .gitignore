@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+*/.vs
+*FolderProfile.pubxml
+*.csproj.user
+*.trx
+/$tf

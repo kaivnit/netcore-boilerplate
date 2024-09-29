@@ -1,0 +1,6 @@
+@NetCoreBoilerplate_HostAddress = http://localhost:5175
+
+GET {{NetCoreBoilerplate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
